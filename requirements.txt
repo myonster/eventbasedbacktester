@@ -3,3 +3,4 @@ ta
 numpy
 pandas
 matplotlib
+seaborn
